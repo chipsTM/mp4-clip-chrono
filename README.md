@@ -8,7 +8,7 @@
 
 Only Supported for MP4
 
-This is a bit of a hack because it redraws the Chrono with the label digit removed
+This is a bit of a hack because it redraws the Chrono with the last digit removed
 
 ## Changelog
 
